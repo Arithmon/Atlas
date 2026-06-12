@@ -3,7 +3,9 @@
 An annotated map of work adjacent to the [Arithmon program](https://github.com/arithmon):
 from information geometry to structural realism, from G2 constructions to
 exact mass relations. Not a list of links. A living document that grows with
-every reading and every contact.
+every reading and every contact. The program's charter and open problems live
+in the [program](https://github.com/arithmon/program) repository; the
+methodology standard lives in the [Sieve](https://github.com/arithmon/sieve).
 
 See [INDEX.md](INDEX.md) for the current map, by relation and by domain.
 
