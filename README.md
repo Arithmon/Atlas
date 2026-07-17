@@ -59,6 +59,6 @@ Do not edit it by hand.
 
 ---
 
-<sub>GIFT is the founding framework of the Arithmon program.
+<sub>K₇ (formerly GIFT) is the founding framework of the Arithmon program.
 Program: [arithmon.com](https://arithmon.com) ·
 [github.com/arithmon](https://github.com/arithmon)</sub>
