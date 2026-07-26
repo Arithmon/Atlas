@@ -50,6 +50,6 @@ Siblings: [Program](https://github.com/arithmon/program) ·
 [Sieve](https://github.com/arithmon/sieve) ·
 [Lean](https://github.com/arithmon/lean)
 
-<sub>GIFT is the founding framework of the Arithmon program.
+<sub>K₇ (formerly GIFT) is the founding framework of the Arithmon program.
 Program: [arithmon.com](https://arithmon.com) ·
 [github.com/arithmon](https://github.com/arithmon)</sub>
