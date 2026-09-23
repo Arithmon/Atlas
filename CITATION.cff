@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "The Arithmon Atlas"
+message: >-
+  If you use or discuss this repository, please cite it as below.
+type: software
+authors:
+  - family-names: "de La Fournière"
+    given-names: "Brieuc"
+repository-code: "https://github.com/Arithmon/Atlas"
+abstract: >-
+  An annotated map of work adjacent to the Arithmon program, one precise delta per entry.
+license: MIT
